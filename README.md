@@ -1,7 +1,6 @@
-Code for MERN tutorial.
+MERN-Exercise-Tracking-Application
 
-Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+This is an Application made using MERN stack.
+This is an simple Exercise tracking Application made using the basics of MongoDB, Express, React, Node.js, and Mongoose in which user can enter his data and can add his type of exercises he want to do daily.
 
-Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Practised using FreeCodeCamp.org
